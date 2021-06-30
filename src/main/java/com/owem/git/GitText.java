@@ -6,5 +6,6 @@ public class GitText {
         System.out.println("Hello Git2");
         System.out.println("Hello Git3");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
